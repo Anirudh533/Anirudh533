@@ -21,7 +21,7 @@ I work on securing modern software products — from secure design reviews, hard
 
 **Languages:** Python · Bash   
 **Cloud & Infra:** AWS · Azure
-**Security:** All things Security  
+**Security:** All things security ·
 **DevSecOps:** GitHub Actions · GitHub Enterprise · ArgoCD · Helm  
 **Data & AI:** Elasticsearch · AWS Bedrock · Azure Foundry. 
 
