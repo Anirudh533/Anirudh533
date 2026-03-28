@@ -17,13 +17,6 @@ I work on securing modern software products — from secure design reviews, hard
 
  `software supply chain` · `cloud detection & response` · `ai for appsec` · `aws security` · `kubernetes security`
 
-### Tech I work with
-
-**Languages:** Python · Bash   
-**Cloud & Infra:** AWS · Azure
-**DevSecOps:** GitHub Actions · GitHub Enterprise · ArgoCD · Helm  
-**Data & AI:** Elasticsearch · AWS Bedrock · Azure Foundry. 
-
 ### Let's connect
 
 - **X:** [@Anirudh533](https://twitter.com/Anirudh533)
